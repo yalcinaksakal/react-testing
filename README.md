@@ -1,10 +1,10 @@
 testing react app
 
 Jest as testrunner<br/>
-React Testing Library
-npm test
-test(testName,{Arrange, Act,Assert})
-describe test suits
-userEvent to test actions
-testing async components
-mocks: jest built in function for mocking (jest.fn(), mockResolvedValueOnce). Instead of sending requests, simulate async functions.
+React Testing Library<br/>
+npm test<br/>
+test(testName,{Arrange, Act,Assert})<br/>
+describe test suits<br/>
+userEvent to test actions<br/>
+testing async components<br/>
+mocks: jest built in function for mocking<br/> (jest.fn(), mockResolvedValueOnce). Instead of sending requests, simulate async functions.
